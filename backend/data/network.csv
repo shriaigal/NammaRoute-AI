@@ -1,0 +1,86 @@
+﻿station_code,station_name,line,sequence,is_interchange,next_station_code,latitude,longitude,distance_to_next_km,line_color
+MDVR,Madavara,Green Line,1,0,CKBK,13.0705,77.466,1.64,#00A651
+CKBK,Chikkabidarakallu,Green Line,2,0,MJNG,13.0615,77.478,1.39,#00A651
+MJNG,Manjunathnagara,Green Line,3,0,NGSA,13.055,77.489,1.43,#00A651
+NGSA,Nagasandra,Green Line,4,0,DSH,13.048,77.5001,1.43,#00A651
+DSH,Dasarahalli,Green Line,5,0,JLHL,13.0433,77.5124,0.9,#00A651
+JLHL,Jalahalli,Green Line,6,0,PYID,13.0394,77.5197,0.71,#00A651
+PYID,Peenya Industry,Green Line,7,0,PEYA,13.0363,77.5254,0.93,#00A651
+PEYA,Peenya,Green Line,8,0,YGTP,13.0328,77.5332,0.96,#00A651
+YGTP,Goraguntepalya,Green Line,9,0,YPM,13.0284,77.5408,1.14,#00A651
+YPM,Yeshwanthpur,Green Line,10,0,SSFY,13.0232,77.5499,1.04,#00A651
+SSFY,Sandal Soap Factory,Green Line,11,0,MHLI,13.0147,77.5539,0.91,#00A651
+MHLI,Mahalakshmi,Green Line,12,0,RJNR,13.0082,77.5488,0.88,#00A651
+RJNR,Rajajinagar,Green Line,13,0,KVPR,13.0003,77.5497,0.82,#00A651
+KVPR,Mahakavi Kuvempu Road,Green Line,14,0,SPRU,12.9985,77.557,0.73,#00A651
+SPRU,Srirampura,Green Line,15,0,SPGD,12.9965,77.5634,1.04,#00A651
+SPGD,Mantri Square Sampige Road,Green Line,16,0,KGWA,12.9905,77.5708,1.66,#00A651
+KGWA,"Nadaprabhu Kempegowda Station, Majestic",Green Line,17,1,CKPE,12.9757,77.5729,1.02,#00A651
+CKPE,Chickpete,Green Line,18,0,KRMT,12.9667,77.5747,0.62,#00A651
+KRMT,Krishna Rajendra Market,Green Line,19,0,NLC,12.9611,77.5748,1.17,#00A651
+NLC,National College,Green Line,20,0,LBGH,12.9506,77.5737,0.83,#00A651
+LBGH,Lalbagh,Green Line,21,0,SECE,12.9464,77.58,0.89,#00A651
+SECE,South End Circle,Green Line,22,0,JYN,12.9384,77.5801,0.98,#00A651
+JYN,Jayanagar,Green Line,23,0,RVR,12.9296,77.5802,0.9,#00A651
+RVR,Rashtreeya Vidyalaya Road,Green Line,24,1,BSNK,12.9215,77.5801,0.96,#00A651
+BSNK,Banashankari,Green Line,25,0,JPN,12.9156,77.5736,0.91,#00A651
+JPN,Jayaprakash Nagar,Green Line,26,0,PUTH,12.9074,77.5732,1.31,#00A651
+PUTH,Yelachenahalli,Green Line,27,0,APRC,12.896,77.5702,1.64,#00A651
+APRC,Konanakunte Cross,Green Line,28,0,KLPK,12.8818,77.566,0.93,#00A651
+KLPK,Doddakallasandra,Green Line,29,0,VJRH,12.874,77.563,1.16,#00A651
+VJRH,Vajarahalli,Green Line,30,0,TGTP,12.8645,77.5585,1.58,#00A651
+TGTP,Thalaghattapura,Green Line,31,0,APTS,12.8565,77.5465,0.82,#00A651
+APTS,Silk Institute,Green Line,32,0,,12.85,77.543,,#00A651
+WHTM,Whitefield (Kadugodi),Purple Line,1,0,UWVL,12.9952,77.7578,0.91,#9B2FAE
+UWVL,Hopefarm Channasandra,Purple Line,2,0,KDGD,12.9879,77.7541,0.81,#9B2FAE
+KDGD,Kadugodi Tree Park,Purple Line,3,0,ITPL,12.9857,77.747,0.91,#9B2FAE
+ITPL,Pattandur Agrahara,Purple Line,4,0,SSHP,12.987,77.7387,1.37,#9B2FAE
+SSHP,Sri Sathya Sai Hospital,Purple Line,5,0,VDHP,12.9812,77.7275,0.58,#9B2FAE
+VDHP,Nallurhalli,Purple Line,6,0,KDNH,12.9766,77.7249,1.01,#9B2FAE
+KDNH,Kundalahalli,Purple Line,7,0,VWIA,12.9776,77.7156,0.82,#9B2FAE
+VWIA,Seetharampalya,Purple Line,8,0,DKIA,12.9809,77.7088,1.84,#9B2FAE
+DKIA,Hoodi,Purple Line,9,0,GDCP,12.9928,77.697,0.74,#9B2FAE
+GDCP,Garudacharapalya,Purple Line,10,0,MDVP,12.9936,77.7038,2.01,#9B2FAE
+MDVP,Singayyanapalya,Purple Line,11,0,KRAM,12.9963,77.6855,0.92,#9B2FAE
+KRAM,Krishnarajapura (K.R.Pura),Purple Line,12,1,BNGH,12.99999,77.67794,1.19,#9B2FAE
+BNGH,Benniganahalli,Purple Line,13,0,BYPL,12.999,77.667,1.82,#9B2FAE
+BYPL,Baiyappanahalli,Purple Line,14,0,SVRD,12.99076,77.65247,1.22,#9B2FAE
+SVRD,Swami Vivekananda Road,Purple Line,15,0,IDN,12.9853,77.6427,0.86,#9B2FAE
+IDN,Indiranagar,Purple Line,16,0,HLRU,12.9786,77.6388,1.88,#9B2FAE
+HLRU,Halasuru,Purple Line,17,0,TTY,12.9814,77.6217,1.06,#9B2FAE
+TTY,Trinity,Purple Line,18,0,MAGR,12.973,77.617,1.13,#9B2FAE
+MAGR,Mahatma Gandhi Road,Purple Line,19,1,CBPK,12.9757,77.6069,1.29,#9B2FAE
+CBPK,Cubbon Park,Purple Line,20,0,VDSA,12.9789,77.5955,0.4,#9B2FAE
+VDSA,"Dr. B. R. Ambedkar Station, Vidhana Soudha",Purple Line,21,0,VSWA,12.9788,77.5918,0.98,#9B2FAE
+VSWA,"Sir M. Visvesvaraya Stn., Central College",Purple Line,22,0,KGWA,12.9743,77.584,1.21,#9B2FAE
+KGWA,"Nadaprabhu Kempegowda Station, Majestic",Purple Line,23,1,SRCS,12.9757,77.5729,0.75,#9B2FAE
+SRCS,Krantivira Sangolli Rayanna Railway Station,Purple Line,24,0,MIRD,12.9758,77.566,1.14,#9B2FAE
+MIRD,Magadi Road,Purple Line,25,0,HSLI,12.9756,77.5555,1.09,#9B2FAE
+HSLI,"Sri Balagangadharanatha Swamiji Station, Hosahalli",Purple Line,26,0,VJN,12.9742,77.5455,0.96,#9B2FAE
+VJN,Vijayanagar,Purple Line,27,0,AGPP,12.9708,77.5374,1.06,#9B2FAE
+AGPP,Attiguppe,Purple Line,28,0,DJNR,12.962,77.5336,1.15,#9B2FAE
+DJNR,Deepanjali Nagar,Purple Line,29,0,MYRD,12.9522,77.537,1.01,#9B2FAE
+MYRD,Mysuru Road,Purple Line,30,0,NYHM,12.9465,77.5297,2.27,#9B2FAE
+NYHM,Pantharapalya - Nayandahalli,Purple Line,31,0,RRRN,12.9452,77.5088,1.52,#9B2FAE
+RRRN,Rajarajeshwari Nagar,Purple Line,32,0,BGUC,12.9366,77.5197,1.13,#9B2FAE
+BGUC,Jnanabharathi,Purple Line,33,0,PATG,12.9297,77.512,1.23,#9B2FAE
+PATG,Pattanagere,Purple Line,34,0,MLSD,12.927,77.501,2.1,#9B2FAE
+MLSD,Kengeri Bus Terminal,Purple Line,35,0,KGIT,12.915,77.486,0.78,#9B2FAE
+KGIT,Kengeri,Purple Line,36,0,CHGT,12.909,77.4823,1.6,#9B2FAE
+CHGT,Challaghatta,Purple Line,37,0,,12.901,77.47,,#9B2FAE
+RVR,Rashtreeya Vidyalaya Road,Yellow Line,1,1,RGGD,12.9215,77.5801,0.5,#F59E0B
+RGGD,Ragigudda,Yellow Line,2,0,JYDH,12.918,77.583,2.72,#F59E0B
+JYDH,Jayadeva Hospital,Yellow Line,3,1,BTML,12.916,77.608,0.07,#F59E0B
+BTML,BTM Layout,Yellow Line,4,0,CSB,12.91656,77.60825,1.63,#F59E0B
+CSB,Central Silk Board,Yellow Line,5,1,BMNH,12.9175,77.6233,1.17,#F59E0B
+BMNH,Bommanahalli,Yellow Line,6,0,HONG,12.907,77.624,0.97,#F59E0B
+HONG,Hongasandra,Yellow Line,7,0,KUDG,12.9005,77.63,1.61,#F59E0B
+KUDG,Kudlu Gate,Yellow Line,8,0,SGSA,12.889,77.639,1.39,#F59E0B
+SGSA,Singasandra,Yellow Line,9,0,HSRD,12.8785,77.646,1.39,#F59E0B
+HSRD,Hosa Road,Yellow Line,10,0,BARA,12.868,77.653,1.53,#F59E0B
+BARA,Beratena Agrahara,Yellow Line,11,0,ELCT,12.8555,77.659,1.3,#F59E0B
+ELCT,Electronic City,Yellow Line,12,0,INFA,12.844,77.661,1.0,#F59E0B
+INFA,Infosys Foundation Konappana Agrahara,Yellow Line,13,0,HSKR,12.835,77.6615,1.16,#F59E0B
+HSKR,Huskur Road,Yellow Line,14,0,HBGD,12.8255,77.666,0.9,#F59E0B
+HBGD,Biocon Hebbagodi,Yellow Line,15,0,BOMS,12.8275,77.674,1.8,#F59E0B
+BOMS,Delta Electronics Bommasandra,Yellow Line,16,0,,12.8193,77.6883,,#F59E0B

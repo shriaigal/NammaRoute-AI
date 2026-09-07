@@ -1,0 +1,86 @@
+﻿station_name,station_name_kannada,line,opened_date,day,layout,station_code
+Madavara,ಮಾದಾವರ,Green Line,07-Nov-2024,Thursday,Elevated,MDVR
+Chikkabidarakallu,ಚಿಕ್ಕಬಿದರಕಲ್ಲು,Green Line,07-Nov-2024,Thursday,Elevated,CKBK
+Manjunathnagara,ಮಂಜುನಾಥನಗರ,Green Line,07-Nov-2024,Thursday,Elevated,MJNG
+Nagasandra,ನಾಗಸಂದ್ರ,Green Line,01-May-2015,Friday,Elevated,NGSA
+Dasarahalli,ದಾಸರಹಳ್ಳಿ,Green Line,01-May-2015,Friday,Elevated,DSH
+Jalahalli,ಜಾಲಹಳ್ಳಿ,Green Line,01-May-2015,Friday,Elevated,JLHL
+Peenya Industry,ಪೀಣ್ಯ ಇಂಡಸ್ಟ್ರಿ,Green Line,01-Mar-2014,Saturday,Elevated,PYID
+Peenya,ಪೀಣ್ಯ,Green Line,01-Mar-2014,Saturday,Elevated,PEYA
+Goraguntepalya,ಗೊರಗುಂಟೆಪಾಳ್ಯ,Green Line,01-Mar-2014,Saturday,Elevated,YGTP
+Yeshwanthpur,ಯಶವಂತಪುರ,Green Line,01-Mar-2014,Saturday,Elevated,YPM
+Sandal Soap Factory,ಸ್ಯಾಂಡಲ್ ಸೋಪ್ ಫ್ಯಾಕ್ಟರಿ,Green Line,01-Mar-2014,Saturday,Elevated,SSFY
+Mahalakshmi,ಮಹಾಲಕ್ಷ್ಮೀ,Green Line,01-Mar-2014,Saturday,Elevated,MHLI
+Rajajinagar,ರಾಜಾಜಿನಗರ,Green Line,01-Mar-2014,Saturday,Elevated,RJNR
+Mahakavi Kuvempu Road,ಮಹಾಕವಿ ಕುವೆಂಪು ರಸ್ತೆ,Green Line,01-Mar-2014,Saturday,Elevated,KVPR
+Srirampura,ಶ್ರೀರಾಮ್‍ಪುರ,Green Line,01-Mar-2014,Saturday,Elevated,SPRU
+Mantri Square Sampige Road,"ಮಂತ್ರಿವಿ ಸ್ಕ್ವೇರ್, ಸಂಪಿಗೆ ರಸ್ತೆ",Green Line,01-Mar-2014,Saturday,Elevated,SPGD
+"Nadaprabhu Kempegowda Station, Majestic","ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡ ನಿಲ್ದಾಣ, ಮೆಜೆಸ್ಟಿಕ್",Green Line,18-Jun-2017,Sunday,Underground,KGWA
+Chickpete,ಚಿಕ್ಕಪೇಟೆ,Green Line,18-Jun-2017,Sunday,Underground,CKPE
+Krishna Rajendra Market,ಕೃಷ್ಣ ರಾಜೇಂದ್ರ ಮಾರುಕಟ್ಟೆ,Green Line,18-Jun-2017,Sunday,Underground,KRMT
+National College,ನ್ಯಾಷನಲ್ ಕಾಲೇಜ್,Green Line,18-Jun-2017,Sunday,Elevated,NLC
+Lalbagh,ಲಾಲ್ ಬಾಗ್,Green Line,18-Jun-2017,Sunday,Elevated,LBGH
+South End Circle,ಸೌತ್ ಎಂಡ್ ಸರ್ಕಲ್,Green Line,18-Jun-2017,Sunday,Elevated,SECE
+Jayanagar,ಜಯನಗರ,Green Line,18-Jun-2017,Sunday,Elevated,JYN
+Rashtreeya Vidyalaya Road,ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾಲಯ ರಸ್ತೆ,Green Line,18-Jun-2017,Sunday,Elevated,RVR
+Banashankari,ಬನಶಂಕರಿ,Green Line,18-Jun-2017,Sunday,Elevated,BSNK
+Jayaprakash Nagar,,Green Line,TBC,,TBC,JPN
+Yelachenahalli,ಯಲಚೇನಹಳ್ಳಿ,Green Line,18-Jun-2017,Sunday,Elevated,PUTH
+Konanakunte Cross,ಕೋಣನಕುಂಟೆ ಕ್ರಾಸ್,Green Line,15-Jan-2021,Friday,Elevated,APRC
+Doddakallasandra,ದೊಡ್ಡಕಲ್ಲಸಂದ್ರ,Green Line,15-Jan-2021,Friday,Elevated,KLPK
+Vajarahalli,ವಾಜರಹಳ್ಳಿ,Green Line,15-Jan-2021,Friday,Elevated,VJRH
+Thalaghattapura,ತಲಘಟ್ಟಪುರ,Green Line,15-Jan-2021,Friday,Elevated,TGTP
+Silk Institute,ರೇಷ್ಮೆ ಸಂಸ್ಥೆ,Green Line,15-Jan-2021,Friday,Elevated,APTS
+Whitefield (Kadugodi),ವೈಟ್ ಫೀಲ್ಡ್ (ಕಾಡುಗೋಡಿ),Purple Line,26-Mar-2023,Sunday,Elevated,WHTM
+Hopefarm Channasandra,ಹೋಪ್ ಫಾರ್ಮ್ ಚನ್ನಸಂದ್ರ,Purple Line,26-Mar-2023,Sunday,Elevated,UWVL
+Kadugodi Tree Park,ಕಾಡುಗೋಡಿ ಟ್ರೀ ಪಾರ್ಕ್,Purple Line,26-Mar-2023,Sunday,Elevated,KDGD
+Pattandur Agrahara,ಪಟ್ಟಂದೂರು ಅಗ್ರಹಾರ,Purple Line,26-Mar-2023,Sunday,Elevated,ITPL
+Sri Sathya Sai Hospital,ಶ್ರೀ ಸತ್ಯ ಸಾಯಿ ಆಸ್ಪತ್ರೆ,Purple Line,26-Mar-2023,Sunday,Elevated,SSHP
+Nallurhalli,ನಲ್ಲೂರುಹಳ್ಳಿ,Purple Line,26-Mar-2023,Sunday,Elevated,VDHP
+Kundalahalli,ಕುಂದಲಹಳ್ಳಿ,Purple Line,26-Mar-2023,Sunday,Elevated,KDNH
+Seetharampalya,ಸೀತಾರಾಮಪಾಳ್ಯ,Purple Line,26-Mar-2023,Sunday,Elevated,VWIA
+Hoodi,ಹೂಡಿ,Purple Line,26-Mar-2023,Sunday,Elevated,DKIA
+Garudacharapalya,,Purple Line,TBC,,TBC,GDCP
+Singayyanapalya,ಸಿಂಗಯ್ಯನಪಾಳ್ಯ,Purple Line,26-Mar-2023,Sunday,Elevated,MDVP
+Krishnarajapura (K.R.Pura),ಕೃಷ್ಣರಾಜಪುರ,Purple Line,26-Mar-2023,Sunday,Elevated,KRAM
+Benniganahalli,ಬೆನ್ನಿಗಾನಹಳ್ಳಿ,Purple Line,09-Oct-2023,Monday,Elevated,BNGH
+Baiyappanahalli,ಬೈಯ್ಯಪ್ಪನಹಳ್ಳಿ,Purple Line,20-Oct-2011,Thursday,At Grade,BYPL
+Swami Vivekananda Road,ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ರಸ್ತೆ,Purple Line,20-Oct-2011,Thursday,Elevated,SVRD
+Indiranagar,ಇಂದಿರಾ ನಗರ,Purple Line,20-Oct-2011,Thursday,Elevated,IDN
+Halasuru,ಹಲಸೂರು,Purple Line,20-Oct-2011,Thursday,Elevated,HLRU
+Trinity,ಟ್ರಿನಿಟಿ,Purple Line,20-Oct-2011,Thursday,Elevated,TTY
+Mahatma Gandhi Road,ಮಹಾತ್ಮಾ ಗಾಂಧಿ ರಸ್ತೆ,Purple Line,20-Oct-2011,Thursday,Elevated,MAGR
+Cubbon Park,ಕಬ್ಬನ್ ಪಾರ್ಕ್,Purple Line,29-Apr-2016,Friday,Underground,CBPK
+"Dr. B. R. Ambedkar Station, Vidhana Soudha","ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್ ನಿಲ್ದಾಣ, ವಿಧಾನ ಸೌಧ",Purple Line,29-Apr-2016,Friday,Underground,VDSA
+"Sir M. Visvesvaraya Stn., Central College",,Purple Line,TBC,,TBC,VSWA
+"Nadaprabhu Kempegowda Station, Majestic","ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡ ನಿಲ್ದಾಣ, ಮೆಜೆಸ್ಟಿಕ್",Purple Line,29-Apr-2016,Friday,Underground,KGWA
+Krantivira Sangolli Rayanna Railway Station,ಕ್ರಾಂತಿವೀರ ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ರೈಲು ನಿಲ್ದಾಣ,Purple Line,29-Apr-2016,Friday,Underground,SRCS
+Magadi Road,ಮಾಗಡಿ ರಸ್ತೆ,Purple Line,16-Nov-2015,Monday,Elevated,MIRD
+"Sri Balagangadharanatha Swamiji Station, Hosahalli","ಶ್ರೀ ಬಾಲಗಂಗಾಧರನಾಥ ಸ್ವಾಮೀಜಿ ನಿಲ್ದಾಣ, ಹೊಸಹಳ್ಳಿ",Purple Line,16-Nov-2015,Monday,Elevated,HSLI
+Vijayanagar,ವಿಜಯನಗರ,Purple Line,16-Nov-2015,Monday,Elevated,VJN
+Attiguppe,ಅತ್ತಿಗುಪ್ಪೆ,Purple Line,16-Nov-2015,Monday,Elevated,AGPP
+Deepanjali Nagar,ದೀಪಾಂಜಲಿ ನಗರ,Purple Line,16-Nov-2015,Monday,Elevated,DJNR
+Mysuru Road,ಮೈಸೂರು ರಸ್ತೆ,Purple Line,16-Nov-2015,Monday,Elevated,MYRD
+Pantharapalya - Nayandahalli,ಪಂತರಪಾಳ್ಯ - ನಾಯಂಡಹಳ್ಳಿ,Purple Line,31-Aug-2021,Tuesday,Elevated,NYHM
+Rajarajeshwari Nagar,ರಾಜರಾಜೇಶ್ವರಿ ನಗರ,Purple Line,31-Aug-2021,Tuesday,Elevated,RRRN
+Jnanabharathi,ಜ್ಞಾನಭಾರತಿ,Purple Line,31-Aug-2021,Tuesday,Elevated,BGUC
+Pattanagere,ಪಟ್ಟಣಗೆರೆ,Purple Line,31-Aug-2021,Tuesday,Elevated,PATG
+Kengeri Bus Terminal,ಕೆಂಗೇರಿ ಬಸ್ ಟರ್ಮಿನಲ್,Purple Line,31-Aug-2021,Tuesday,Elevated,MLSD
+Kengeri,ಕೆಂಗೇರಿ,Purple Line,31-Aug-2021,Tuesday,Elevated,KGIT
+Challaghatta,ಚಲ್ಲಘಟ್ಟ,Purple Line,09-Oct-2023,Monday,Elevated,CHGT
+Rashtreeya Vidyalaya Road,ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾಲಯ ರಸ್ತೆ,Yellow Line,10-Aug-2025,Sunday,Elevated,RVR
+Ragigudda,ರಾಗಿಗುಡ್ಡ,Yellow Line,10-Aug-2025,Sunday,Elevated,RGGD
+Jayadeva Hospital,ಜಯದೇವ ಆಸ್ಪತ್ರೆ,Yellow Line,10-Aug-2025,Sunday,Elevated,JYDH
+BTM Layout,ಬಿ ಟಿ ಎಂ ಬಡಾವಣೆ,Yellow Line,10-Aug-2025,Sunday,Elevated,BTML
+Central Silk Board,ಕೇಂದ್ರ ರೇಷ್ಮೆ ಮಂಡಳಿ,Yellow Line,10-Aug-2025,Sunday,Elevated,CSB
+Bommanahalli,ಬೊಮ್ಮನಹಳ್ಳಿ,Yellow Line,10-Aug-2025,Sunday,Elevated,BMNH
+Hongasandra,ಹೊಂಗಸಂದ್ರ,Yellow Line,10-Aug-2025,Sunday,Elevated,HONG
+Kudlu Gate,ಕೂಡ್ಲು ಗೇಟ್,Yellow Line,10-Aug-2025,Sunday,Elevated,KUDG
+Singasandra,ಸಿಂಗಸಂದ್ರ,Yellow Line,10-Aug-2025,Sunday,Elevated,SGSA
+Hosa Road,ಹೊಸ ರಸ್ತೆ,Yellow Line,10-Aug-2025,Sunday,Elevated,HSRD
+Beratena Agrahara,ಬೆರಟೇನ ಅಗ್ರಹಾರ,Yellow Line,10-Aug-2025,Sunday,Elevated,BARA
+Electronic City,ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸಿಟಿ,Yellow Line,10-Aug-2025,Sunday,Elevated,ELCT
+Infosys Foundation Konappana Agrahara,ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಷನ್ ಕೋನಪ್ಪನ ಅಗ್ರಹಾರ,Yellow Line,10-Aug-2025,Sunday,Elevated,INFA
+Huskur Road,ಹುಸ್ಕೂರು ರಸ್ತೆ,Yellow Line,10-Aug-2025,Sunday,Elevated,HSKR
+Biocon Hebbagodi,ಬಯೋಕಾನ್ ಹೆಬ್ಬಗೋಡಿ,Yellow Line,10-Aug-2025,Sunday,Elevated,HBGD
+Delta Electronics Bommasandra,ಡೆಲ್ಟಾ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಬೊಮ್ಮಸಂದ್ರ,Yellow Line,10-Aug-2025,Sunday,Elevated,BOMS
