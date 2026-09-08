@@ -1,6 +1,10 @@
 import { Clock, MapPin, ArrowLeftRight, Route as RouteIcon } from 'lucide-react'
 
-const LINE_BG = { 'Purple Line': 'bg-purpleLine', 'Green Line': 'bg-greenLine' }
+const LINE_BG = {
+  'Purple Line': 'bg-purpleLine',
+  'Green Line': 'bg-greenLine',
+  'Yellow Line': 'bg-yellowLine'
+}
 
 function Stat({ icon: Icon, label, value }) {
   return (
